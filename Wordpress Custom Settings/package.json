@@ -1,0 +1,15 @@
+{
+  "name": "wordpressejemplos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "wp-env": "wp-env"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@wordpress/env": "^10.36.0"
+  }
+}
